@@ -2,7 +2,7 @@
   "name": "fullstackpack",
   "displayName": "FullStackPack",
   "description": "Full Stack Development Kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JanishPancholi",
   "engines": {
     "vscode": "^1.97.0"
